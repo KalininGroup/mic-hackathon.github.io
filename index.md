@@ -5,7 +5,9 @@ menu_title: Home
 menu_icon: house-door
 ---
 
-## Update Dec 20th: Congratulations to all the winning teams for Mic-Hackathon 2024! All submissions can be found [here](https://kaliningroup.github.io/mic-hackathon/projects/). We will be back soon!
+## Update 17th Aug 2025 -> [This year's mic hackathon website link](https://kaliningroup.github.io/mic_hackathon_2/)
+
+## Update Dec 20th 2024: Congratulations to all the winning teams for Mic-Hackathon 2024! All submissions can be found [here](https://kaliningroup.github.io/mic-hackathon/projects/). We will be back soon!
 
 | Rank                  | Team Name          | Participants & Affiliations                           | Code Link                | Drive Link              |
 |-----------------------|--------------------|------------------------------------------------------|--------------------------|-------------------------|
